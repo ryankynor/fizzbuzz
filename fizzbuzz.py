@@ -1,7 +1,7 @@
 """
 fizzbuzz.py
 Author: Ryan Kynor
-Credit: None
+Credit: Sawyer
 
 Assignment:
 
